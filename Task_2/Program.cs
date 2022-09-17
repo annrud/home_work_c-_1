@@ -1,5 +1,6 @@
 ﻿Console.Clear();
 Console.WriteLine("Программа определяет max и min из двух чисел.");
+
 Console.Write("Введите первое число: ");
 string input1 = Console.ReadLine();    
 int number1 = int.Parse(input1);
